@@ -1,4 +1,4 @@
-
+# https://codeforces.com/problemset/problem/158/A?fbclid=IwAR1hIv38PDg6sIDomu4l467ws0fMGwyxQlpWbfw_0OZhxW1N088Eytf_L-Y
 def SearchNextRound(ListScore,Location):
     NumberNextRound=0
     MinScore=ListScore[Location-1]
